@@ -1,0 +1,4 @@
+"position_id","inst_id","title","responsibilities","start_date","end_date"
+"1","1","Technical Student Assistant","Assist students and faculty in using the technology available at MSU's Digital Scholaship Lab","9/1/2023",NULL
+"2","1","Student Researcher","Test and report bugs for new features in a VR Environment used for conducting research","10/1/2023",NULL
+"3","2","Data Engineer","Build data pipelines and automate workflows using Python","5/1/2025","8/15/2025"

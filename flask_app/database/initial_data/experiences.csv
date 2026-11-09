@@ -1,0 +1,7 @@
+"experience_id","position_id","name","description","hyperlink","start_date","end_date"
+"1","1","CSE 472","Implemented ray-tracing and vertex shading using C++ and OpenGL","https://github.com/mehtadak/CSE472_Project1",NULL,NULL
+"2","1","CSE 380","Made a backend for a grocery store to save inventory and user data","https://github.com/mehtadak/CSE380_Project3",NULL,NULL
+"3","1","CSE 335","Used OOP to make a game using C++",NULL,NULL,NULL
+"4","1","CSE 331","Gained a deep understanding of Data Structures and Algorithms",NULL,NULL,NULL
+"5","1","Personal Website","Made my own website using HTML and CSS and hosted it on GitHub Pages","https://mehtadak.github.io/readme.html",NULL,NULL
+"6","2","Data Pipeline","Made a data pipeline to connect HubSpot and PostgreSQL using Airbyte","https://mehtadak.github.io/",NULL,NULL
